@@ -1,0 +1,5 @@
+/mmdet/*
+/MNIST/*
+*.zip
+*.pt
+*.jpg
